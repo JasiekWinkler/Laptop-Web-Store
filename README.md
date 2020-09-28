@@ -1,2 +1,1 @@
-# Snake
-JS Snake
+# Laptop Web Store
